@@ -1,7 +1,7 @@
 {
-  "name": "File editor 2",
+  "name": "G13 File Editor",
   "version": "5.0.0",
-  "slug": "configurator_2",
+  "slug": "g13_file_editor",
   "description": "Simple browser-based file editor for Home Assistant",
   "url": "https://github.com/home-assistant/hassio-addons/tree/master/configurator",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
